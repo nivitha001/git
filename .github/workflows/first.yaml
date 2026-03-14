@@ -3,7 +3,7 @@ name: Demo Pipeline
 on: push
 
 jobs:
-  My-test-job:
+  nivitha-job:
     runs-on: ubuntu-latest
     steps:
       - name: message
